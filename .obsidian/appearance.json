@@ -1,0 +1,12 @@
+{
+  "accentColor": "#ff0000",
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "perso"
+  ],
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "textFontFamily": "Inter"
+}

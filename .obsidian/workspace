@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "48d80e58b29d856c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e858dec26e0c01b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/~LEGACY/Brouillons/📨 Backlog sujets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a0a70d53a2654a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffdd6a7716a2f57b",
+        "type": "tabs",
+        "dimension": 64.44769568397952,
+        "children": [
+          {
+            "id": "dac583f96a6dcd2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b977b4f94218f84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61d7163080eaa4e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0ad55c8963c25742",
+        "type": "tabs",
+        "dimension": 35.55230431602048,
+        "children": [
+          {
+            "id": "fbdc3faf460fc4d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/~LEGACY/Brouillons/📨 Backlog sujets.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 496
+  },
+  "right": {
+    "id": "504b078efc523736",
+    "type": "split",
+    "children": [
+      {
+        "id": "248e02ca2ac09f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4809beb9cae72833",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/~LEGACY/Brouillons/📨 Backlog sujets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5a4f58f0ad6a6aa8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/~LEGACY/Brouillons/📨 Backlog sujets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a45ec39fcf65875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc23b5731a77e4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e858dec26e0c01b",
+  "lastOpenFiles": [
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Ressources/Théories - Modèle papillon.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Ressources/Documents - Lexique des abstractions.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Idées/Backlog - Idées d'ateliers et PhI.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Idées/Backlog - Warnings à moi même.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Idées/Backlog - Idées d'enseignement.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Points par phase/Cours 1/Phase 1 - Questions.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Tentative de plan global.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/~LEGACY/Brouillons/📨 Backlog sujets.md",
+    "2022090813_besoin de sens et refuge dans le transcendant.md",
+    "2022090711_A la volée.md"
+  ]
+}

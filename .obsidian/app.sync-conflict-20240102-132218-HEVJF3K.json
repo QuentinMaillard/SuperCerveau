@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "• Pocket Space •/030. Attachements",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "• Pocket Space •/",
+    "/🗃️ Archives/"
+  ],
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

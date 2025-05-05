@@ -1,0 +1,11 @@
+{
+  "theme": "system",
+  "cssTheme": "Border",
+  "baseFontSize": 12,
+  "accentColor": "",
+  "nativeMenus": false,
+  "translucency": false,
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": []
+}

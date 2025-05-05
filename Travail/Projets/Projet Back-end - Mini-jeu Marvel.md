@@ -1,0 +1,4 @@
+---
+domaine:
+  - "[[Étudier à Hétic]]"
+---

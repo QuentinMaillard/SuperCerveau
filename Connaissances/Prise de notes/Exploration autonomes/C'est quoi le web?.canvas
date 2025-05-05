@@ -1,0 +1,150 @@
+{
+  "edges": [
+    {
+      "fromNode": "294df11c24dba758",
+      "fromSide": "top",
+      "id": "8941901a7595bcbd",
+      "styleAttributes": {
+      },
+      "toNode": "937c392bcc40953e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "294df11c24dba758",
+      "fromSide": "top",
+      "id": "2df839b4e4d80ab8",
+      "styleAttributes": {
+      },
+      "toNode": "6e2581c70e6b640b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "294df11c24dba758",
+      "fromSide": "top",
+      "id": "7c8224be4909fcd6",
+      "styleAttributes": {
+      },
+      "toNode": "2b0ff583831c64dd",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "294df11c24dba758",
+      "fromSide": "bottom",
+      "id": "52dcb48e7e2c4b9e",
+      "styleAttributes": {
+      },
+      "toNode": "36ba8cfe720597b7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "294df11c24dba758",
+      "fromSide": "bottom",
+      "id": "604ff84639c14f2d",
+      "styleAttributes": {
+      },
+      "toNode": "0bbdb6c445ca12bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0528eb254bc192df",
+      "fromSide": "bottom",
+      "id": "88608b3ef15f6f54",
+      "label": "invente en 1989",
+      "styleAttributes": {
+      },
+      "toNode": "8a092fff99d0549f",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "0528eb254bc192df",
+      "styleAttributes": {
+      },
+      "text": "Tim Berners-Lee",
+      "type": "text",
+      "width": 260,
+      "x": -280,
+      "y": -100
+    },
+    {
+      "file": "Connaissances/Fiches/World Wide Web.md",
+      "height": 400,
+      "id": "8a092fff99d0549f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": 120
+    },
+    {
+      "height": 80,
+      "id": "294df11c24dba758",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Langages informatiques du web",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 160
+    },
+    {
+      "height": 60,
+      "id": "6e2581c70e6b640b",
+      "styleAttributes": {
+      },
+      "text": "CSS",
+      "type": "text",
+      "width": 260,
+      "x": 830,
+      "y": -10
+    },
+    {
+      "height": 60,
+      "id": "937c392bcc40953e",
+      "styleAttributes": {
+      },
+      "text": "HTML",
+      "type": "text",
+      "width": 260,
+      "x": 630,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "2b0ff583831c64dd",
+      "styleAttributes": {
+      },
+      "text": "JS",
+      "type": "text",
+      "width": 260,
+      "x": 500,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "36ba8cfe720597b7",
+      "styleAttributes": {
+      },
+      "text": "PHP",
+      "type": "text",
+      "width": 260,
+      "x": 820,
+      "y": 320
+    },
+    {
+      "height": 60,
+      "id": "0bbdb6c445ca12bf",
+      "styleAttributes": {
+      },
+      "text": "GoLang",
+      "type": "text",
+      "width": 260,
+      "x": 570,
+      "y": 420
+    }
+  ]
+}

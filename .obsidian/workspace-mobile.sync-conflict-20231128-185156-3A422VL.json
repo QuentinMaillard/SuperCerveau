@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "48d80e58b29d856c",
+    "type": "split",
+    "children": [
+      {
+        "id": "94659bb866fc7319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e858dec26e0c01b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e0d1f8cc911b914",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d9cc5781662d282",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ef20e4696e2a602",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "516b3edb4351cbdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Notes de vie 🤘/Expulsions/Journal/2023021101 - Samedi 11 février.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fccd480484e213c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "82ca220313bd7c89",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "474e7f73b6c27452",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "efb47b7864a42ddb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "17471ecfe7d8562d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "aab8fb233b82be35",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1ad9fbf3f98a93c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0. Notes de vie 🤘/Expulsions/Journal/2023021101 - Samedi 11 février.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f1726b08623f30b2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "0. Notes de vie 🤘/Expulsions/Journal/2023021101 - Samedi 11 février.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f5dc60e128d24538",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "0. Notes de vie 🤘/Expulsions/Journal/2023021101 - Samedi 11 février.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "516b3edb4351cbdb",
+  "lastOpenFiles": [
+    "~ H O M E ~.md",
+    "3. Chantiers (outputs) 💪/Hetic - Ateliers Libres/2023011017_Meeting hetic libre ateliers.md",
+    "1. Notes de Vie 🤘/Interêts/Organisation de vie/Journaling methods.md",
+    "The book of questions.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Ressources/Théories - Modèle papillon.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Ressources/Documents - Lexique des abstractions.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Idées/Backlog - Idées d'ateliers et PhI.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Idées/Backlog - Warnings à moi même.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Idées/Backlog - Idées d'enseignement.md",
+    "4. Projets en Cours 🏃‍♂️/👨‍🏫 Enseignement/Cours PMD/Points par phase/Cours 1/Phase 1 - Questions.md"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "300 Ressources",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "/🗃️ Archives/",
+    "000 Pocket Space/",
+    "/Attachements/"
+  ],
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Ressource",
+    "paffa",
+    "paffer"
+  ],
+  "readableLineLength": true,
+  "showUnsupportedFiles": true,
+  "tabSize": 4,
+  "mobilePullAction": "zk-prefixer",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:insert-callout",
+    "editor:insert-link",
+    "editor:configure-toolbar"
+  ]
+}

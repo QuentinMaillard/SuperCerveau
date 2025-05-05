@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "48d80e58b29d856c",
+    "type": "split",
+    "children": [
+      {
+        "id": "71175c9e576a1ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89393a878e9b891",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "• PORTAIL •.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "• PORTAIL •"
+            }
+          },
+          {
+            "id": "61e30a32056d33cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✨ COMMENCER ICI ✨.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "✨ COMMENCER ICI ✨"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a0a70d53a2654a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffdd6a7716a2f57b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b93e3881eb328471",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "a174be915789f9bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9b977b4f94218f84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "right": {
+    "id": "504b078efc523736",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d6a6ca8f8a5a593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "850e888447c2eb45",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Connaissances/Prise de notes/✨ 𝙰𝚜𝚝𝚞𝚌𝚎𝚜 𝚙𝚘𝚞𝚛 𝚕𝚊 𝚙𝚛𝚒𝚜𝚎 𝚍𝚎 𝚗𝚘𝚝𝚎𝚜 ✨.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.8,
+                  "nodeSizeMultiplier": 1.30047607421875,
+                  "lineSizeMultiplier": 3.84139404296875,
+                  "collapse-forces": true,
+                  "centerStrength": 0.738850911458333,
+                  "repelStrength": 14.1373697916667,
+                  "linkStrength": 0.419840494791667,
+                  "linkDistance": 349,
+                  "scale": 0.5309711571136434,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de ✨ 𝙰𝚜𝚝𝚞𝚌𝚎𝚜 𝚙𝚘𝚞𝚛 𝚕𝚊 𝚙𝚛𝚒𝚜𝚎 𝚍𝚎 𝚗𝚘𝚝𝚎𝚜 ✨"
+            }
+          },
+          {
+            "id": "191263e8980b3f16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200 Efforts/220. Expéditions/222… Projets/210 • HETIC • FT 24-25 • Culture professionnelle/222 • Cours aux FT (24-25) de Culture professionnelle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour 222 • Cours aux FT (24-25) de Culture professionnelle"
+            }
+          },
+          {
+            "id": "33e5467ea8ab3c6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "200 Efforts/220. Expéditions/222… Projets/210 • HETIC • FT 24-25 • Culture professionnelle/222 • Cours aux FT (24-25) de Culture professionnelle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de 222 • Cours aux FT (24-25) de Culture professionnelle"
+            }
+          },
+          {
+            "id": "e5f265c1501f3cf9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          },
+          {
+            "id": "e24efc63171092df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✨ COMMENCER ICI ✨.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de ✨ COMMENCER ICI ✨"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "aeda4428349aeea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98a03bc98996bbb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Ouvrir la vue graphique": false,
+      "templates:Insérer le modèle": false,
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "workspaces:Gérer les espaces de travail": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "61e30a32056d33cf",
+  "lastOpenFiles": [
+    "• PORTAIL •.md",
+    "Notes périodiques/✨ 𝙰𝚜𝚝𝚞𝚌𝚎𝚜 𝚙𝚘𝚞𝚛 𝚕𝚎𝚜 𝚗𝚘𝚝𝚎𝚜 𝚙𝚎𝚛𝚒𝚘𝚍𝚒𝚚𝚞𝚎𝚜 ✨.md",
+    "✨ COMMENCER ICI ✨.md",
+    "Connaissances/✨ 𝙰𝚜𝚝𝚞𝚌𝚎𝚜 𝚙𝚘𝚞𝚛 𝚕𝚎 𝚍𝚘𝚜𝚜𝚒𝚎𝚛 𝚌𝚘𝚗𝚗𝚊𝚒𝚜𝚜𝚊𝚗𝚌𝚎𝚜 ✨.md",
+    "Connaissances/Fiches/✨ 𝙰𝚜𝚝𝚞𝚌𝚎𝚜 𝚙𝚘𝚞𝚛 𝚕𝚎𝚜 𝚏𝚒𝚌𝚑𝚎𝚜 ✨.md",
+    "Connaissances/Thèmes/Systémique, pensée abstraite et critique.md",
+    "Connaissances/Prise de notes/✨ 𝙰𝚜𝚝𝚞𝚌𝚎𝚜 𝚙𝚘𝚞𝚛 𝚕𝚊 𝚙𝚛𝚒𝚜𝚎 𝚍𝚎 𝚗𝚘𝚝𝚎𝚜 ✨.md",
+    "Connaissances/Prise de notes/Exploration autonomes/C'est quoi le web?.canvas",
+    "Connaissances/Fiches/World Wide Web.md",
+    "Ressources externes/✨ 𝙰𝚜𝚝𝚞𝚌𝚎𝚜 𝚙𝚘𝚞𝚛 𝚕𝚎𝚜 𝚛𝚎𝚜𝚜𝚘𝚞𝚛𝚌𝚎𝚜 ✨.md",
+    "Travail/Projets/Apprendre à gérer mes connaissances.md",
+    "Travail/Domaines d'activités/Autoformation et Explorations intellectuelles.md",
+    "Travail/Domaines d'activités/Étudier à Hétic.md",
+    "Travail/Domaines d'activités/Self-care.md",
+    "Travail/Projets/Projet Back-end - Mini-jeu Marvel.md",
+    "✨ 𝙰𝚜𝚝𝚞𝚌𝚎𝚜 𝚙𝚘𝚞𝚛 𝚌𝚎 𝚍𝚘𝚜𝚜𝚒𝚎𝚛 ✨.md",
+    "Connaissances/Fiches/Cycle de la connaissance.md",
+    "Connaissances/Fiches/520 •  9 étapes pour écrire une nouvelle.md",
+    "030 • Historique de notes créées.md",
+    "Connaissances/Fiches/Trilakshana - Les trois caractéristiques de l'existence Bouddhistes.md",
+    "Connaissances/Thèmes/Apprentissage et connaissances (thème).md",
+    "Connaissances/Fiches/Deuxième cerveau.md",
+    "Connaissances/Fiches/522 • Comment sauvegarder ses données (méthode).md",
+    "Connaissances/Fiches/Personal Knowledge Management (définition).md",
+    "Connaissances/Fiches/Types de notes en PKM.md",
+    "Connaissances/Fiches/Untitled.canvas",
+    "Connaissances/Fiches/Obsidian.md",
+    "Connaissances/Fiches/520 • Loi de Gall.md",
+    "Ressources externes/Images/Illsutration • Consommer avec et sans prise de note.png",
+    "Ressources externes/Images/Illustration - Ordre de lecture.jpg",
+    "Ressources externes/Images/Illustration • Bad and Good to-do.png",
+    "Ressources externes/Images/Illustration • Chaos mental avant et après écrire.jpeg",
+    "Ressources externes/Images/Illustration • Charge mentale entre garder dans la tête et l'écrire.png",
+    "Ressources externes/Images/Illustration • Collecter-Trier-Utiliser.png",
+    "Ressources externes/Images/Illustration • Consommer pour créer.png",
+    "Ressources externes/Images/Illustration • Consuming with note making (visual teacher).png",
+    "Ressources externes/Images/Illustration • Écrire pour avoir l'esprit clair.png",
+    "Ressources externes/Images/Illustration • Évolution, comparaison et point de vue.jpg",
+    "Ressources externes/PDFs/340 • Board Game Math Learning.pdf",
+    "Ressources externes/Autres",
+    "Notes périodiques/2025/04-avril",
+    "Notes périodiques/2025",
+    "100 Ligne Temporelle/110. Notes périodiques/2025/04-avril",
+    "100 Ligne Temporelle/110. Notes périodiques/2025",
+    "100 Ligne Temporelle/110. Notes périodiques",
+    "100 Ligne Temporelle",
+    "Connaissances/Prise de notes/Notes de cours/2024-2025",
+    "Mon canva pour les FT.canvas",
+    "Travail/Projets/222… Projets/210 • HETIC • FT 24-25 • Culture professionnelle/Ma carte de la tech.canvas",
+    "500 Planetarium/520. Étoiles (synthétiser)/Sans titre.canvas",
+    "Sans titre.canvas",
+    "200 Efforts/220. Expéditions/221… Chantiers/Sans titre",
+    "Travail/Projets/222… Projets/222 • Dev • Site d'ambiance (atmosfera)/Site ambiance mindmap.canvas",
+    "Travail/230. Tâches/230 • Tableau de bord.canvas",
+    "Ressources externes/Schéma objectif-projet-tâche 1.canvas",
+    "Ressources externes/Schéma objectif-projet-tâche.canvas"
+  ]
+}

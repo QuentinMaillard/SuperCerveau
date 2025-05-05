@@ -1,0 +1,63 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "zv7vEeLvIeCabMsjA97j9",
+      "name": "200",
+      "value": "#ff2929"
+    },
+    {
+      "id": "RBGzZQ29ugd_otVRM99YW",
+      "name": "300",
+      "value": "#ef0aff"
+    },
+    {
+      "id": "frvDN9WVxy1fxyHJd2syG",
+      "name": "100",
+      "value": "#1de258"
+    },
+    {
+      "id": "rFN5fD4uWjC13jr-0Y9Zw",
+      "name": "400",
+      "value": "#886e11"
+    },
+    {
+      "id": "SE7u7tR7Y3Zk15UeoEZTN",
+      "name": "500",
+      "value": "#fbff00"
+    },
+    {
+      "id": "E0jqt_UfPdnSKUhkxQkDs",
+      "name": "700",
+      "value": "#0008ff"
+    },
+    {
+      "id": "oPXB4CIYjWmj-6IMk1nfn",
+      "name": "600",
+      "value": "#05eeff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Connaissances",
+      "color": "SE7u7tR7Y3Zk15UeoEZTN"
+    },
+    {
+      "path": "Travail",
+      "color": "zv7vEeLvIeCabMsjA97j9"
+    },
+    {
+      "path": "Notes périodiques",
+      "color": "frvDN9WVxy1fxyHJd2syG"
+    },
+    {
+      "path": "Ressources externes",
+      "color": "RBGzZQ29ugd_otVRM99YW"
+    },
+    {
+      "path": "Templates",
+      "color": "oPXB4CIYjWmj-6IMk1nfn"
+    }
+  ]
+}

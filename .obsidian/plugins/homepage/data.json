@@ -1,0 +1,25 @@
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "value": "• PORTAIL •",
+      "kind": "File",
+      "openOnStartup": true,
+      "openMode": "Keep open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Editing view (Live Preview)",
+      "revertView": true,
+      "openWhenEmpty": true,
+      "refreshDataview": true,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": true,
+      "commands": [],
+      "alwaysApply": true,
+      "hideReleaseNotes": false,
+      "version": 2,
+      "hasRibbonIcon": true
+    }
+  },
+  "separateMobile": false
+}

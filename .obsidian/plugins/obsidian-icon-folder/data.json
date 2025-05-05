@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiDoorOpen",
+      "LiNotebookPen",
+      "LiSchool",
+      "LiBrain",
+      "LiCalendarDays"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "• PORTAIL •.md": "LiDoorOpen",
+  "Notes périodiques": "LiCalendarDays",
+  "Templates": "LiNotepadTextDashed",
+  "Connaissances": "LiBrain",
+  "Connaissances/Prise de notes": "LiScanSearch",
+  "Ressources externes": "LiArchive",
+  "Travail": "LiSunrise",
+  "Connaissances/Fiches": "LiNotebookPen",
+  "Travail/Domaines d'activités": "LiAperture",
+  "Travail/Domaines d'activités/Autoformation et Explorations intellectuelles.md": "LiLeafyGreen",
+  "Travail/Domaines d'activités/Self-care.md": "LiHeartPulse",
+  "Travail/Domaines d'activités/Étudier à Hétic.md": "LiSchool",
+  "Travail/Projets": "LiRocket",
+  "Connaissances/Thèmes": "LiArrowDownRightFromSquare"
+}

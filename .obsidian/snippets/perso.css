@@ -1,0 +1,171 @@
+/***** CENTER EMBEDED ELEMENTS *****/
+/*
+    how : add `|center` in the wikilink after the name of the embedded file
+*/
+*[alt~="center"] {
+    display: block !important;
+    margin: 0px auto !important;
+}
+
+/***** CENTER H1 *****/
+/* edit mode */
+.HyperMD-header.HyperMD-header-1 {
+    text-align: center;
+}
+
+/* preview mode */
+.markdown-preview-view h1 {
+    text-align: center;
+    margin-bottom: 2rem !important;
+}
+
+h1::before {
+    left: auto !important;
+    transform: translateX(-10px);
+}
+
+/* RAINBOW INDENT COLORS */
+:root {
+    /* default */
+    --font-use-default: var(--default-font);
+    --font-size-use-default: var(--editor-font-size);
+    --indent-use-default: 1.8ch;
+    /* ------- */
+
+    /* theme */
+    --font-use-theme: inherit;
+    --font-size-use-theme: inherit;
+    --indent-use-theme: 1.8ch;
+    /* ----- */
+
+    /* wide */
+    --font-use-wide: monospace;
+    --font-size-use-wide: 12.5px;
+    --indent-use-wide: 4.0155ch;
+    /* ---- */
+
+    /* custom */
+    --font-use-custom: Arial;
+    --font-size-use-custom: 13px;
+    --indent-use-custom: 14.5px;
+    /* ------ */
+
+    /* SET FROM VARIABLES ABOVE UPDATING LAST WORD (e.g. ...-default) */
+    /* Copy and replace one of following: default, theme, wide, custom */
+    --rb-indent-font-family: var(--font-use-wide);
+    --rb-indent-font-size: var(--font-size-use-wide);
+    --rb-indent-width: var(--indent-use-wide);
+    --rb-left-offset: -10px;
+    /* ---------------------------------------------- */
+
+    --rb-line-width: 2px;
+    --rb-color-count: 8;
+    /* 
+    --rb-indent-1: #8a7acf00;
+    --rb-indent-2: #cf7ec4;
+    --rb-indent-3: #eea977;
+    --rb-indent-4: #fbdd79;
+    --rb-indent-5: #f3879b;
+    --rb-indent-6: #ccee7a;
+    --rb-indent-7: #98dece;
+    --rb-indent-8: #73cff1; */
+    
+    --rb-indent-1: #cf7a7a00;
+    --rb-indent-2: #ff0000;
+    --rb-indent-3: #e21b1b;
+    --rb-indent-4: #bc5050;
+    --rb-indent-5: #e9a5a5;
+    --rb-indent-6: #d3a7a7;
+    --rb-indent-7: #ff0000;
+    --rb-indent-8: #e21b1b;
+
+    --rb-indent-bg-size: calc(var(--rb-color-count) * var(--rb-indent-width)) 1px;
+    --rb-indent-rainbow-bg: linear-gradient(to right,
+            var(--rb-indent-1) 0 var(--rb-line-width),
+            transparent var(--rb-line-width) calc(1 * var(--rb-indent-width)),
+            var(--rb-indent-2) calc(1 * var(--rb-indent-width)) calc(1 * var(--rb-indent-width) + var(--rb-line-width)),
+            transparent calc(1 * var(--rb-indent-width) + var(--rb-line-width)) calc(2 * var(--rb-indent-width)),
+            var(--rb-indent-3) calc(2 * var(--rb-indent-width)) calc(2 * var(--rb-indent-width) + var(--rb-line-width)),
+            transparent calc(2 * var(--rb-indent-width) + var(--rb-line-width)) calc(3 * var(--rb-indent-width)),
+            var(--rb-indent-4) calc(3 * var(--rb-indent-width)) calc(3 * var(--rb-indent-width) + var(--rb-line-width)),
+            transparent calc(3 * var(--rb-indent-width) + var(--rb-line-width)) calc(4 * var(--rb-indent-width)),
+            var(--rb-indent-5) calc(4 * var(--rb-indent-width)) calc(4 * var(--rb-indent-width) + var(--rb-line-width)),
+            transparent calc(4 * var(--rb-indent-width) + var(--rb-line-width)) calc(5 * var(--rb-indent-width)),
+            var(--rb-indent-6) calc(5 * var(--rb-indent-width)) calc(5 * var(--rb-indent-width) + var(--rb-line-width)),
+            transparent calc(5 * var(--rb-indent-width) + var(--rb-line-width)) calc(6 * var(--rb-indent-width)),
+            var(--rb-indent-7) calc(6 * var(--rb-indent-width)) calc(6 * var(--rb-indent-width) + var(--rb-line-width)),
+            transparent calc(6 * var(--rb-indent-width) + var(--rb-line-width)) calc(7 * var(--rb-indent-width)),
+            var(--rb-indent-8) calc(7 * var(--rb-indent-width)) calc(7 * var(--rb-indent-width) + var(--rb-line-width)),
+            transparent calc(7 * var(--rb-indent-width) + var(--rb-line-width)) calc(8 * var(--rb-indent-width)));
+}
+
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line:not(.HyperMD-list-line-1) {
+    overflow: hidden;
+}
+
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line .cm-hmd-list-indent {
+    position: relative;
+    font-family: var(--rb-indent-font-family) !important;
+    font-size: var(--rb-indent-font-size) !important;
+    vertical-align: top;
+}
+
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line .cm-hmd-list-indent::before {
+    content: '';
+    font-family: var(--rb-indent-font-family) !important;
+    font-size: var(--rb-indent-font-size) !important;
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: -1.6em;
+    padding-bottom: 999em;
+    background-image: var(--rb-indent-rainbow-bg);
+    background-size: var(--rb-indent-bg-size);
+    left: var(--rb-left-offset);
+}
+
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-list-line {
+    padding-top: 0.15em;
+    padding-bottom: 0.15em;
+}
+
+.cm-indent {
+    visibility: hidden;
+}
+
+/***** DAILY NOTES NAV *****/
+.daily div p:has(a.internal-link) {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    color: #565656;
+}
+
+.daily div p:has(a.internal-link) .internal-link {
+    text-decoration: none;
+    flex-grow: 4;
+}
+
+.daily div p:has(a.internal-link) .internal-link:first-child {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.daily div p:has(a.internal-link) .internal-link:nth-child(2) {
+    text-align: center
+}
+
+.daily div p:has(a.internal-link) .internal-link:last-child {
+    text-align: right;
+    padding-right: 10px;
+}
+
+
+body.theme-light, body.theme-dark  {
+    --list-marker-color: red;
+    --list-marker-color-collapsed: red;
+    --caret-color: red;
+    --text-formatting: red;
+    --checkbox-border-color: red;
+    --hr-color: rgba(255, 0, 0, 0.179);
+}

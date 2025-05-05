@@ -1,0 +1,3 @@
+- Note de thème + Wikilinks mieux que dossiers
+	- Éviter enfermer un sujet/une connaissance dans une boite
+- 

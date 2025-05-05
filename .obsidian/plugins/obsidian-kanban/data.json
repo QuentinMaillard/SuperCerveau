@@ -1,0 +1,8 @@
+{
+  "show-checkboxes": false,
+  "date-picker-week-start": 1,
+  "link-date-to-daily-note": true,
+  "move-dates": true,
+  "date-trigger": "@",
+  "date-display-format": "📅 YYYY-MM-DD"
+}

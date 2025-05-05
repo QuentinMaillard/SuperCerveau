@@ -1,0 +1,13 @@
+{
+  "logLevel": "off",
+  "createAtObsidianAttachmentFolder": true,
+  "customFolderForNewFiles": "",
+  "removeMarkdownOnExport": true,
+  "defaultEmbedWidth": "100%",
+  "defaultEmbedHeight": "100%",
+  "hasMigratedTo800": true,
+  "showWelcomeModal": false,
+  "defaultFrozenColumnCount": 1,
+  "pluginVersion": "8.16.1",
+  "showWhatsNewModal": true
+}

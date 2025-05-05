@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "attachmentFolderPath": "• Pocket Space •/030. Attachements",
+  "newLinkFormat": "shortest",
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "• Pocket Space •/",
+    "• old/"
+  ],
+  "showUnsupportedFiles": true
+}

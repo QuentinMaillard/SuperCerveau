@@ -1,0 +1,258 @@
+{
+  "progressBarDisplayMode": "text",
+  "supportHoverToShowProgressInfo": true,
+  "addProgressBarToNonTaskBullet": false,
+  "addTaskProgressBarToHeading": true,
+  "countSubLevel": true,
+  "displayMode": "bracketFraction",
+  "customFormat": "[{{COMPLETED}}/{{TOTAL}}]",
+  "showPercentage": false,
+  "customizeProgressRanges": false,
+  "progressRanges": [
+    {
+      "min": 0,
+      "max": 20,
+      "text": "Just started {{PROGRESS}}%"
+    },
+    {
+      "min": 20,
+      "max": 40,
+      "text": "Making progress {{PROGRESS}}%"
+    },
+    {
+      "min": 40,
+      "max": 60,
+      "text": "Half way {{PROGRESS}}%"
+    },
+    {
+      "min": 60,
+      "max": 80,
+      "text": "Good progress {{PROGRESS}}%"
+    },
+    {
+      "min": 80,
+      "max": 100,
+      "text": "Almost there {{PROGRESS}}%"
+    }
+  ],
+  "hideProgressBarBasedOnConditions": false,
+  "hideProgressBarTags": "no-progress,hide-progress",
+  "hideProgressBarFolders": "",
+  "hideProgressBarMetadata": "hide-progress-bar",
+  "autoCompleteParent": true,
+  "markParentInProgressWhenPartiallyComplete": true,
+  "taskStatuses": {
+    "completed": "x|X",
+    "inProgress": ">|/",
+    "abandoned": "-",
+    "planned": "?",
+    "notStarted": " "
+  },
+  "countOtherStatusesAs": "inProgress",
+  "excludeTaskMarks": "",
+  "useOnlyCountMarks": false,
+  "onlyCountTaskMarks": "x|X|>|/",
+  "enableTaskStatusSwitcher": true,
+  "enableCustomTaskMarks": false,
+  "enableTextMarkInSourceMode": false,
+  "enableCycleCompleteStatus": false,
+  "alwaysCycleNewTasks": false,
+  "taskStatusCycle": [
+    "Not Started",
+    "In Progress",
+    "Completed",
+    "Abandoned",
+    "Planned"
+  ],
+  "taskStatusMarks": {
+    "Not Started": " ",
+    "In Progress": "/",
+    "Completed": "x",
+    "Abandoned": "-",
+    "Planned": "@"
+  },
+  "excludeMarksFromCycle": [],
+  "enablePriorityPicker": true,
+  "enablePriorityKeyboardShortcuts": true,
+  "enableDatePicker": true,
+  "dateMark": "📅",
+  "taskFilter": {
+    "enableTaskFilter": true,
+    "presetTaskFilters": [
+      {
+        "id": "1744661763501xqfusqqfe",
+        "name": "#task",
+        "options": {
+          "includeCompleted": true,
+          "includeInProgress": true,
+          "includeAbandoned": true,
+          "includeNotStarted": true,
+          "includePlanned": true,
+          "includeParentTasks": true,
+          "includeChildTasks": true,
+          "includeSiblingTasks": false,
+          "advancedFilterQuery": "#task",
+          "filterMode": "INCLUDE"
+        }
+      }
+    ]
+  },
+  "completedTaskMover": {
+    "enableCompletedTaskMover": true,
+    "taskMarkerType": "date",
+    "versionMarker": "version 1.0",
+    "dateMarker": "archived on {{DATE:YYYY-MM-DD}}",
+    "customMarker": "moved {{DATE:YYYY-MM-DD HH:mm}}",
+    "treatAbandonedAsCompleted": false,
+    "completeAllMovedTasks": true,
+    "withCurrentFileLink": true
+  },
+  "quickCapture": {
+    "enableQuickCapture": true,
+    "targetFile": "200 Efforts/230. Tâches ✅/232… Ponctuel ⬇️/Carnet de tâches.md'",
+    "placeholder": "Capture rapide",
+    "appendToFile": "append"
+  },
+  "workflow": {
+    "enableWorkflow": true,
+    "autoAddTimestamp": false,
+    "timestampFormat": "YYYY-MM-DD HH:mm:ss",
+    "removeTimestampOnTransition": false,
+    "calculateSpentTime": false,
+    "spentTimeFormat": "HH:mm:ss",
+    "calculateFullSpentTime": false,
+    "autoRemoveLastStageMarker": false,
+    "autoAddNextTask": false,
+    "definitions": [
+      {
+        "id": "project_workflow",
+        "name": "Project Workflow",
+        "description": "Standard project management workflow",
+        "stages": [
+          {
+            "id": "planning",
+            "name": "Planning",
+            "type": "linear",
+            "next": "in_progress"
+          },
+          {
+            "id": "in_progress",
+            "name": "In Progress",
+            "type": "cycle",
+            "subStages": [
+              {
+                "id": "development",
+                "name": "Development",
+                "next": "testing"
+              },
+              {
+                "id": "testing",
+                "name": "Testing",
+                "next": "development"
+              }
+            ],
+            "canProceedTo": [
+              "review",
+              "cancelled"
+            ]
+          },
+          {
+            "id": "review",
+            "name": "Review",
+            "type": "cycle",
+            "canProceedTo": [
+              "in_progress",
+              "completed"
+            ]
+          },
+          {
+            "id": "completed",
+            "name": "Completed",
+            "type": "terminal"
+          },
+          {
+            "id": "cancelled",
+            "name": "Cancelled",
+            "type": "terminal"
+          }
+        ],
+        "metadata": {
+          "version": "1.0",
+          "created": "2024-03-20",
+          "lastModified": "2024-03-20"
+        }
+      }
+    ]
+  },
+  "enableView": true,
+  "viewConfiguration": [
+    {
+      "id": "inbox",
+      "name": "Inbox",
+      "icon": "inbox",
+      "type": "default",
+      "visible": true,
+      "hideCompletedAndAbandonedTasks": true,
+      "filterRules": {}
+    },
+    {
+      "id": "forecast",
+      "name": "Forecast",
+      "icon": "calendar-days",
+      "type": "default",
+      "visible": true,
+      "hideCompletedAndAbandonedTasks": true,
+      "filterRules": {}
+    },
+    {
+      "id": "projects",
+      "name": "Projects",
+      "icon": "folders",
+      "type": "default",
+      "visible": false,
+      "hideCompletedAndAbandonedTasks": false,
+      "filterRules": {
+        "pathIncludes": "220 •"
+      }
+    },
+    {
+      "id": "tags",
+      "name": "Tags",
+      "icon": "tag",
+      "type": "default",
+      "visible": true,
+      "hideCompletedAndAbandonedTasks": false,
+      "filterRules": {}
+    },
+    {
+      "id": "flagged",
+      "name": "Flagged",
+      "icon": "flag",
+      "type": "default",
+      "visible": false,
+      "hideCompletedAndAbandonedTasks": true,
+      "filterRules": {}
+    },
+    {
+      "id": "review",
+      "name": "Review",
+      "icon": "eye",
+      "type": "default",
+      "visible": true,
+      "hideCompletedAndAbandonedTasks": false,
+      "filterRules": {}
+    }
+  ],
+  "reviewSettings": {
+    "test": {
+      "frequency": "weekly",
+      "lastReviewed": 1744662750665,
+      "reviewedTaskIds": [
+        "200 Efforts/220. Projets 🚀/Feu vif 🔥/250 •  myself • Mon site/220 • myself • Mon site.md-L34"
+      ]
+    }
+  },
+  "addNumberToProgressBar": false,
+  "allowAlternateTaskStatus": false,
+  "alternativeMarks": "(x|X|-)"
+}

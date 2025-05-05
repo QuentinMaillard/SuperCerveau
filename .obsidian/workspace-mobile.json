@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "2300a23c97187381",
+    "type": "split",
+    "children": [
+      {
+        "id": "177b425630f9ad52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c6f645cb9d5589e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "• PORTAIL •.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "20209487daf22c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 Planetarium/510. Nébuleuses/510 • Terre des Hommes - Saint Exupéry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0532bc2ee71d7850",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9e24657b50d0fcf6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2ac1a363bffd6226",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Terre",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ee67bc57c6bff075",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "46ebea1ebb17d55f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "74d21f577f47c8c3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "395c42b69bd5f041",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c7cb3333a6950f0d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "500 Planetarium/510. Nébuleuses/510 • Terre des Hommes - Saint Exupéry.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "abfe595e67516cbd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "500 Planetarium/510. Nébuleuses/510 • Terre des Hommes - Saint Exupéry.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f3d5ae1fb3a8d901",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "500 Planetarium/510. Nébuleuses/510 • Terre des Hommes - Saint Exupéry.md"
+          }
+        }
+      },
+      {
+        "id": "c4ad4752668ad8e1",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "acc851bd79fa5351",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      },
+      {
+        "id": "58bf503181188a01",
+        "type": "leaf",
+        "state": {
+          "type": "daily-note-outline",
+          "state": {
+            "activeSet": 0,
+            "activeGranularity": 0
+          }
+        }
+      },
+      {
+        "id": "b206f5a97fe34e72",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "20209487daf22c99",
+  "lastOpenFiles": [
+    "• PORTAIL •.md",
+    "500 Planetarium/510. Nébuleuses/510 • Arc Browser.md",
+    "200 Activités/210. Enseigner 👨‍🏫/📚 Ressources/Méthodo/Méthodo.md",
+    "600 Nexus de Fondation/610. Ligne Temporelle/2024/02-février/2024-02-02.md",
+    "500 Planetarium/510. Nébuleuses/510 • Trop gentil pour être heureux - (livre).md",
+    "600 Nexus de Fondation/610. Ligne Temporelle/2024/02-février/2024-02-03.md",
+    "600 Nexus de Fondation/610. Ligne Temporelle/2024/02-février/2024-02-07.md",
+    "500 Planetarium/510. Nébuleuses/510 • Influence et Manipulation - (livre).md",
+    "600 Nexus de Fondation/610. Ligne Temporelle/2024/02-février/2024-02-05.md",
+    "500 Planetarium/510. Nébuleuses/510 • Terre des Hommes - Saint Exupéry.md",
+    "Efforts/🔥 Sur le feu/210 • HETIC • Fast-tracks • Méthodologie/Déroulé/Jour 3.canvas",
+    "500 Planetarium/510. Nébuleuses/510 • Idées de cérémonies quotidiennes.md",
+    "Autoformation.md",
+    "Modèle papillon.excalidraw.md",
+    "Plan d'action.canvas",
+    "Efforts/🔥 Sur le feu/210 • HETIC • Fast-tracks • Méthodologie/Déroulé/Jour 2.canvas",
+    "PKM is nice, Continuous Systemised Learning is better.md",
+    "000 Pocket Space/030. Attachements/manson-problems-find-the-shit-you-enjoy.png",
+    "200 Activités/240. Oeuvrer 👩‍🎨/241… Écrire/241.A • Idées et brouillons/241 • Le dernier Humain.md",
+    "600 Nexus de Fondation/Construct/240 • Ecriture.md",
+    "Efforts/♨️ En combustion lente/240 • Oqopo/Reflexion/Elements/Le temps, cycles.md",
+    "500 Planetarium/510. Nébuleuses/510 • Hyper-textualité.md",
+    "500 Planetarium/510. Nébuleuses/510 • Veille technologique.md",
+    "500 Planetarium/510. Nébuleuses/510 • Note making vs Note taking.md",
+    "Efforts/🔥 Sur le feu/210 • HETIC • Fast-tracks • Méthodologie/Supports/Jour 2.canvas",
+    "Efforts/🔥 Sur le feu/210 • HETIC • Fast-tracks • Méthodologie/Supports/Jour 1.canvas",
+    "Efforts/🔥 Sur le feu/210 • HETIC • Fast-tracks • Méthodologie/Supports.zip",
+    "500 Planetarium/510. Nébuleuses/Apprentissage systématisé.md",
+    "Untitled/Schéma apprentissage systématisé.excalidraw.md",
+    "200 Activités/280. Prendre du bon temps ❤️/281… M'aventurer/281 • Endroits que je veux voir/Dans le monde.md",
+    "Efforts/🔥 Sur le feu/200 • Intervention enfants/200 • Intervention enfants.md",
+    "200 Activités/280. Prendre du bon temps ❤️/Donjon et Dragon/Ma campagne/Ma campagne.md",
+    "L'esprit de son temps.md",
+    "Efforts/🔥 Sur le feu/210 • HETIC • Fast-tracks • Méthodologie/Préparation/Fiche pédagogique.canvas",
+    "test.canvas",
+    "test 2.canvas",
+    "Efforts/🔥 Sur le feu/210 • HETIC • Fast-tracks • Méthodologie/Déroulé/Jour 1.canvas",
+    "200 Activités/210. Enseigner 👨‍🏫/📚 Ressources/Fiche pédagogique • Template.canvas",
+    "000 Pocket Space/030. Attachements/Teacup Tattoo Design (1).png",
+    "Untitled/Pasted image 20240110174354.png",
+    "Untitled/Pasted image 20240109223436.png",
+    "Untitled/Pasted image 20240109223415.png",
+    "Untitled/Pasted image 20240104225708.png",
+    "Untitled/Pasted image 20240104222016.png",
+    "Untitled/Pasted image 20240104142752.png",
+    "Untitled/Pasted image 20240104101514.png",
+    "Untitled/Pasted image 20231229141743.png",
+    "Untitled",
+    "Efforts/🧨 À (re)venir/210 • HETIC • OpenBox/📚 Ressources/OpenBox - Devis prévisionnels.pdf",
+    "Efforts/🧨 À (re)venir/210 • HETIC • OpenBox/📚 Ressources/Manifeste OpenBox.pdf",
+    "Efforts/🧨 À (re)venir/210 • HETIC • OpenBox/🏗️ Préparation/Manifeste",
+    "Efforts/🧨 À (re)venir/210 • HETIC • OpenBox/📚 Ressources",
+    "Efforts/🧨 À (re)venir/210 • HETIC • OpenBox/👥 Notes de réunions",
+    "Efforts/🧨 À (re)venir/210 • HETIC • OpenBox/🏗️ Préparation",
+    "Efforts/🧨 À (re)venir/210 • HETIC • OpenBox",
+    "Efforts/🔥 Sur le feu/📝 210 • HETIC • PMD • Méthodologie/Déroulé/Journée 2"
+  ]
+}

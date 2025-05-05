@@ -1,0 +1,66 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "&",
+    "icon": "lucide-zap"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "?"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "!",
+    "icon": "lucide-alert-triangle"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "->",
+    "icon": "lucide-arrow-big-right"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "-",
+    "icon": "lucide-frown"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "+",
+    "icon": "lucide-hand-metal"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "%",
+    "icon": "link"
+  },
+  {
+    "char": "=",
+    "color": "229, 52, 223",
+    "icon": "lucide-list",
+    "custom": true
+  },
+  {
+    "char": "@",
+    "color": "121, 163, 230",
+    "icon": "calendar-day",
+    "custom": true
+  },
+  {
+    "char": "//",
+    "color": "245, 173, 173",
+    "icon": "lucide-message-circle",
+    "custom": true
+  },
+  {
+    "char": ".",
+    "color": "0, 204, 255",
+    "icon": "lucide-timer",
+    "custom": true
+  },
+  {
+    "char": "r",
+    "color": "184, 179, 230",
+    "icon": "lucide-bot",
+    "custom": true
+  }
+]

@@ -1,0 +1,170 @@
+@media screen and (min-width: 1024px) {
+    .view-content {
+        .metadata-container {
+            max-height: 2.7rem;
+            opacity: 0.6;
+            overflow: hidden;
+            transition: max-height 250ms ease-in-out, opacity 250ms;
+            margin-bottom: 0;
+        }
+
+        .metadata-container:hover,
+        .metadata-container:focus-within {
+            max-height: 1000px;
+            opacity: 1;
+            transition: max-height 700ms ease-in-out;
+            opacity: 300ms;
+        }
+    }
+}
+
+/* 
+.metadata-properties-heading {
+    display: none;
+} */
+
+.metadata-properties-heading {
+    font-size: 1em;
+    font-weight: 600;
+    font-family: courier, courier new, serif;
+    color: #b7cae4 !important;
+}
+
+
+.metadata-properties-heading::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 33%; /* Width of the underline */
+    height: 1px; /* Thickness of the underline */
+    background-color: #b7cae4; /* Color of the underline */
+}
+
+/* Styles for the arrow when not hovered */
+.metadata-properties-heading::after {
+    content: '▼';
+    color: #b7cae4;
+    position: absolute;
+    right: -15px;
+    top: 5px;
+    transform-origin: center;
+    transition: transform 0.3s ease;
+}
+
+/* Styles for the arrow when hovered */
+.metadata-properties-heading:hover::after {
+    transform: rotate(180deg);
+}
+
+.metadata-container:hover .metadata-properties-heading::after {
+    transform: rotate(180deg);
+}
+
+/* .metadata-property-value .clickable-icon {
+    display: none;
+} */
+
+body {
+    --metadata-border-radius: 6px !important;
+    --metadata-gap: 0px !important;
+}
+
+/* 
+Show Properties in reading mode by default.
+Use "hide_properties" in `css_classes` property to hide them.
+============================================================= */
+/* .workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.hide_properties
+.metadata-container{
+    display: none !important;
+} */
+/* .metadata-add-button {
+    display: none;
+} */
+/* Hide "Add property" button in in reading mode by default.
+Add "show_add_property_btn" to `css_classes` property to show it.
+================================================================= */
+/* .workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view
+.metadata-add-button {
+    display: none;
+} */
+
+/* .workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.show_add_property_btn
+.metadata-add-button {
+    display: inline-flex;
+} */
+
+/* 
+Hide Properties in reading mode by default.
+Add "show_properties" to `css_classes` property to show them.
+============================================================= */
+/* .workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view
+.metadata-container{
+    display: none;
+}
+
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.show_properties
+.metadata-container{
+    display: block;
+} */
+
+/* This hides the Properties view for only notes with the cssclass of NoProps (of course NoProps can be changed...AntiProp, PropsAway, and so on): */
+/* .NoProps {
+    --metadata-display-reading: none; 
+    --metadata-display-editing: none; 
+} */
+
+/* Remove Pointer Events*/
+/* .metadata-container {
+    pointer-events: none;
+  } */
+
+/* Remove - Header */
+/* .metadata-container .metadata-properties-heading {
+    display: none;
+  } */
+
+/* Remove - Icon */
+/* .metadata-container .metadata-property-icon {
+    display: none;
+  } */
+
+/* Remove - Button */
+/* .metadata-container .text-icon-button {
+    display: none;
+  } */
+
+/* Remove - Cross */
+/* .metadata-container .multi-select-pill-remove-button {
+    display: none;
+  } */
+
+/* Fix Tag */
+/* .metadata-container .multi-select-pill-content {
+    margin-left: var(--pill-padding-x);
+    margin-right: var(--pill-padding-x);
+  } */
+
+/* @settings
+
+name: File Properties Visibility
+id: file-properties-visibility
+settings:
+-
+    id: toggle-properties-visibility
+    title: File properties visibility
+    description: Hides properties in all modes.
+    type: class-toggle
+    addCommand: true
+
+*/
+
+.toggle-properties-visibility .metadata-container {
+    --metadata-display-reading: none;
+    --metadata-display-editing: none;
+}
