@@ -40,12 +40,12 @@
   "Connaissances": "LiBrain",
   "Connaissances/Prise de notes": "LiScanSearch",
   "Ressources externes": "LiArchive",
-  "Travail": "LiSunrise",
   "Connaissances/Fiches": "LiNotebookPen",
-  "Travail/Domaines d'activités": "LiAperture",
-  "Travail/Domaines d'activités/Autoformation et Explorations intellectuelles.md": "LiLeafyGreen",
-  "Travail/Domaines d'activités/Self-care.md": "LiHeartPulse",
-  "Travail/Domaines d'activités/Étudier à Hétic.md": "LiSchool",
-  "Travail/Projets": "LiRocket",
-  "Connaissances/Thèmes": "LiArrowDownRightFromSquare"
+  "Connaissances/Thèmes": "LiArrowDownRightFromSquare",
+  "Activités": "LiSunrise",
+  "Activités/Domaines d'activités": "LiAperture",
+  "Activités/Projets": "LiRocket",
+  "Activités/Domaines d'activités/Self-care.md": "LiHeartPulse",
+  "Activités/Domaines d'activités/Autoformation et Explorations intellectuelles.md": "LiLeafyGreen",
+  "Activités/Domaines d'activités/Étudier à Hétic.md": "LiSchool"
 }

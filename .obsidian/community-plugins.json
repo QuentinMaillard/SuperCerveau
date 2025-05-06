@@ -14,7 +14,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-file-color",
   "share-note",
-  "copy-url-in-preview",
   "homepage",
   "better-export-pdf",
   "links",
@@ -22,7 +21,6 @@
   "global-search-and-replace",
   "omnisearch",
   "table-editor-obsidian",
-  "obsidian-advanced-slides",
   "obsidian-linter",
   "canvas-send-to-back",
   "simple-canvasearch",
@@ -30,5 +28,7 @@
   "calendar",
   "dataview",
   "templater-obsidian",
-  "quickadd"
+  "quickadd",
+  "callout-manager",
+  "copy-url-in-preview"
 ]

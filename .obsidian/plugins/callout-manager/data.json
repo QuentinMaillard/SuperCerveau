@@ -1,0 +1,22 @@
+{
+  "callouts": {
+    "custom": [
+      "astuce"
+    ],
+    "settings": {
+      "astuce": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "203, 204, 117"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
