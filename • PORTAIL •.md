@@ -11,3 +11,9 @@ WHERE contains(file.path, "Fiches")
 SORT file.ctime DESC 
 LIMIT 10
 ```
+
+---
+
+La note `🚪 Portail` est une note d'accueuil, qui permet de plonger directement dans son deuxième cerveau.
+
+N'hésitez pas à la customiser à votre guide !
